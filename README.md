@@ -18,7 +18,7 @@ A modern and responsive job listing application built with **Next.js (App Router
 
 1. **Clone the repo**
    ```bash
-   git clone <https://github.com/AlazarGebre21/job-listing-app-with-nextjs.git>
+   git clone https://github.com/AlazarGebre21/job-listing-app-with-nextjs.git
    cd task-6
 2. **Install dependencies**
   ```bash
